@@ -1,0 +1,10 @@
+{
+  "type": "buttons",
+  "buttons": [
+    "시작하기(start)",
+    "오늘의 급식",
+    "오늘의 간식",
+    "간단 제나 사용법",
+    "Simple Jena Manual"
+  ]
+}
